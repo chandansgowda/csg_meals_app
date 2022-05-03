@@ -1,4 +1,4 @@
 # CSG Meals App
 
-This flutter application was developed whie learning navigation and frontend development from a Udemy course from Academind. 
+This flutter application was developed while learning navigation and frontend development from an Udemy course from Academind. 
 
